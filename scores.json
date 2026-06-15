@@ -146,5 +146,14 @@
       "date": "6月16日",
       "time": "06:00"
     }
+    {
+      "home": "法国",
+      "away": "塞内加尔",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming",
+      "date": "6月17日",
+      "time": "03:00"
+    }
   ]
 }
